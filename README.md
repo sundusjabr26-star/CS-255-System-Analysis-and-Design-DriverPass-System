@@ -1,5 +1,5 @@
-**CS 255 Portfolio Reflection – DriverPass System
-Project Summary**
+**CS 255 Portfolio Reflection – DriverPass System**
+**Project Summary**
 
 The DriverPass project focused on designing a system for a company that helps students prepare for driving tests. The client, DriverPass, wanted a web-based platform where users could take practice exams, schedule driving lessons, and track their progress. The system also needed to support administrators, instructors, and integration with external systems like the DMV. The goal was to improve student success rates by providing both online learning and real-world driving practice.
 
