@@ -19,3 +19,14 @@ I interpreted the user’s needs by carefully analyzing the interview transcript
 **My Approach to Software Design**
 
 My approach to designing software involves first understanding the problem, then breaking it down into smaller components. I use techniques such as process modeling, object modeling, and UML diagrams to visualize the system. In the future, I will continue using structured approaches like the SDLC, while also focusing on user-centered design, iterative improvements, and clear documentation to ensure system quality and usability.
+
+**Repository Contents**
+
+This repository includes:
+
+Business Requirements Document (Project One)
+System Design Document (Project Two)
+Reflection (this README)
+Repository Link
+
+(https://github.com/sundusjabr26-star/CS-255-System-Analysis-and-Design-DriverPass-System.git)
